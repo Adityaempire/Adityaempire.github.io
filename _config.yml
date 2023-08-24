@@ -1,10 +1,10 @@
 # Site settings
-title: Aditya Empire
+title: Aditya Empire!!
 email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Trading - Technical Analyst - COC PRO Player"
+skills: "Trading - Technical Analyst - Price Action Based Trader"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -41,14 +41,10 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
+  - title: instagram
+    url: https://instagram.com/adityaempire001
 
 # Postal address (add as many lines as necessary)
 address:
